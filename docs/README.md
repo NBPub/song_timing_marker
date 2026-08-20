@@ -19,11 +19,14 @@ On launch the tool opens a file dialog to choose a song. The dialog can be skipp
 
 ## Interface
 
-<p align="center"><figure>
-  <figcaption>Home screen after selecting an audio file, dark and light themes shown</figcaption>
+<p align="center"><em>
+Home screen after selecting an audio file, dark and light themes shown
+</em></p>
+
+<p align="center">
   <img src="images/home_dark.png" alt="Main window, dark theme" width="49%">
   <img src="images/home_light.png" alt="Main window, light theme" width="49%">
-</figure></p>
+</p>
 
 The window is a single column of controls. Buttons can be clicked or the [keyboard shortcuts](../README.md#keyboard-shortcuts) can be used. From top to bottom:
 
