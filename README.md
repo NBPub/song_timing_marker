@@ -76,6 +76,8 @@ with no external application to install.
 > would surface as a playback artifact, not a security concern. Remove it from
 > `requirements.txt` if slowed playback is not needed.
 
+Versions are unpinned, so `pip install` fetches the latest compatible release of each. Built in Python 3.14 and tested against sounddevice 0.5.5, soundfile 0.14.0, numpy 2.5.1, sv-ttk 2.6.1, audiotsm 0.1.2. 
+
 ## Features
 
 - Transport controls (play, pause, stop, skip) and a click-and-drag seek bar
